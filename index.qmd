@@ -1,0 +1,5 @@
+---
+title: "andycady.github.io"
+---
+
+Hello world! My name is Amandisa Cady, and I am a student in MDS - Computational Linguistics for the 2024-25 school year at UBC. 
